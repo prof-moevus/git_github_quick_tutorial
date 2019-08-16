@@ -1,17 +1,19 @@
 🌱 The PULL Github's Club 🌱
 =============================
 
-Working on your local repo
-----------------------------
-
-If you want to be part of the PGC,
-you should go through the following challenges:
+If you want to be part of the PGC, you should go through the following challenges
+and prove your mastery of Git/Github to the team. 
 
   0) What's your nickname?
   …
   Seriously? Among all the possibilities you chose that?
 
 Anyway, let's start.
+
+Working On Your Local Repo
+----------------------------
+Let's warmup quickly before the real deal.
+
 
   1) Create a new empty repo on Github.com following the lab's naming rules
   2) Clone it on your computer
@@ -41,3 +43,5 @@ Merging On Github
   6) Now take some time to see what you have done. How things appear in Github and so on.
 
 You're done!! Congrats :tada:!!
+
+To go further please have fun on the amazing https://learngitbranching.js.org/?demo!
