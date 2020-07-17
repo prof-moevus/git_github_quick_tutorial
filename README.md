@@ -1,7 +1,7 @@
-🌱 The PULL Github's Club 🌱
-=============================
+🌱 The Github Quick Tutorial 🌱
+================================
 
-If you want to be part of the PGC, you should go through the following challenges
+If you want to be part of the premium github club (PGC), you should go through the following challenges
 and prove your mastery of Git/Github to the team. 
 
   0) What's your nickname?
