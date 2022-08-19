@@ -6,7 +6,7 @@ and prove your mastery of Git/Github to the team.
 
   0) What's your nickname?
   …
-  Seriously? Among all the possibilities you chose that?
+  Among all the possibilities you chose that one?
 
 Anyway, let's start.
 
